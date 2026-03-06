@@ -73,10 +73,12 @@ The project will run on **http://localhost:3000**
 
 ## 📷 Screenshot
 
-(Add your game screenshot here)
+<img width="858" height="805" alt="Screenshot 2026-03-06 at 18-56-37 Snake Game" src="https://github.com/user-attachments/assets/f4b4b105-b25b-4f20-9233-a2819ce12b79" />
+
 
 ## 📄 License
 
 This project is for learning and educational purposes.
+
 
 
